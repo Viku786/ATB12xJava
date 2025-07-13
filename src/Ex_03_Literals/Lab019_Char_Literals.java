@@ -27,7 +27,5 @@ public class Lab019_Char_Literals {
         System.out.println("Vikash\nSingh");
 
 
-
-
     }
 }
