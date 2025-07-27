@@ -1,4 +1,4 @@
-package Ex_19_OOPS_Single_Inheritance;
+package Ex_19_OOPS_Part2;
 
 public class Lab_161_SI {
     public static void main(String[] args) {

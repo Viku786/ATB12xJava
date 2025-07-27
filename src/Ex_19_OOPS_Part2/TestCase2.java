@@ -1,4 +1,4 @@
-package Ex_19_OOPS_Single_Inheritance;
+package Ex_19_OOPS_Part2;
 
 public class TestCase2 extends CommonToAllTest {
 

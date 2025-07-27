@@ -1,4 +1,4 @@
-package Ex_19_OOPS_Single_Inheritance.multilevel;
+package Ex_19_OOPS_Part2.multilevel;
 
 public class GrandFather {
     void home(){

@@ -1,4 +1,4 @@
-package Ex_19_OOPS_Single_Inheritance.Hierarchical;
+package Ex_19_OOPS_Part2.Hierarchical;
 
 public class Lab_164_Hierarchical {
     public static void main(String[] args) {

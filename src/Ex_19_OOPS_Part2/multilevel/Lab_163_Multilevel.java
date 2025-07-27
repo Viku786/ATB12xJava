@@ -1,4 +1,4 @@
-package Ex_19_OOPS_Single_Inheritance.multilevel;
+package Ex_19_OOPS_Part2.multilevel;
 
 public class Lab_163_Multilevel {
     public static void main(String[] args) {
