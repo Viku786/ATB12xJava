@@ -15,7 +15,7 @@ public class Qno_2 {
             int c = a/b;
             System.out.print("Result: "+c);
         } catch (Exception e) {
-            System.out.print("Error: Cannot divide by zero"+e.getMessage());
+            System.out.print("Error: Cannot divide by zero");
         } finally {
             System.out.println(" Finally block executed");
         }
