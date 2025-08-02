@@ -6,7 +6,7 @@ public class Qno_10 {
         Integer[] intArray = {1, 2, 3};
         System.out.println("Sum: " + GenericSum.sumArray(intArray));
 
-        // Test with Double array
+
         Double[] doubleArray = {1.5, 2.5, 3.5};
         System.out.println("Sum: " + GenericSum.sumArray(doubleArray));
     }
