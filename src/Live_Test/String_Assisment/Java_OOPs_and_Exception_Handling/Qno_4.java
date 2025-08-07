@@ -18,9 +18,9 @@ public class Qno_4 {
         System.out.println("Balance After Withdrawl: "+ba.getBalance());
 
         System.out.println("------------");
-        ba.deposit(-100.0); // Invalid deposit
-        ba.withdraw(2000000.0); // Invalid withdrawal (insufficient funds)
-        ba.withdraw(-50.0); // Invalid withdrawal (negative amount)
+        ba.deposit(-100.0); // Deposit amount should be positive
+        ba.withdraw(2000000.0); //Insufficient balance for withdrawl
+        ba.withdraw(-50.0); // Withdrawl amount should be positive
     }
 }
 
