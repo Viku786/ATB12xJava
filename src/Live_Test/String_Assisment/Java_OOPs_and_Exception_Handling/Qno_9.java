@@ -16,9 +16,7 @@ public class Qno_9 {
 }
 
 interface Drawable{
-    default void draw(){
-        System.out.println("Drawing the different shape");
-    }
+    public void draw();
 }
 
 class Circle1 implements Drawable{
