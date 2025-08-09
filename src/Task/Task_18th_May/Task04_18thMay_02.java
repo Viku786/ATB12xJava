@@ -1,4 +1,4 @@
-package Task;
+package Task.Task_18th_May;
 
 public class Task04_18thMay_02 {
     public static void main(String[] args) {

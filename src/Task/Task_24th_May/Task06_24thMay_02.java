@@ -1,6 +1,5 @@
-package Task;
+package Task.Task_24th_May;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Task06_24thMay_02 {
